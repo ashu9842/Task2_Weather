@@ -1,0 +1,58 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background: linear-gradient(135deg,#74ebd5 0%,#ACB6E5 100%);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.weather-container{
+    padding: 2rem;
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: #13d2f839;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    width: 100%;
+    text-align: center;
+}
+input{
+    padding: 10px;
+    font-size: 16px;
+    width: 80%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+}
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+   background-color: #469f4bee;
+   color: white;
+   margin: 0.3rem;
+    
+}
+button:hover{
+    background-color: #45a049;
+}
+#weatherResult{
+    margin-top: 1.5rem;
+    font-size: 16px;
+    line-height: 1.6;
+}
+h1{
+    margin-bottom: 1rem;
+
+}
+.weather-icon{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+}
