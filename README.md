@@ -16,7 +16,7 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
 ## 🚀 Demo
 
-Check out the live version: [Live Demo](#) *(Add your GitHub Pages or live site link here)*
+Check out the live version: https://ashu9842.github.io/Task2_Weather/
 
 
 ---
